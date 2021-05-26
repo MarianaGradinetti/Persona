@@ -21,10 +21,20 @@ public class Persona {
 		
 	}
 
-	public void Caminar () {}
-	public void Sentarse () {}
-	public void Pararse () {}
-	public void Cumplir () {}
-	public void Engordar () {}
+	public void Caminar () {
+		
+	}
+	public void Sentarse () {
+		
+	}
+	public void Pararse () {
+		
+	}
+	public void Cumplir () {
+		
+	}
+	public void Engordar () {
+		
+	}
 	
 }
